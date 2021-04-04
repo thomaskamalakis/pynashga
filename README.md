@@ -9,3 +9,5 @@ In game theory Nash's equilibrium is a state in which no player can do any bette
 ### What you will need
 You need Python 3, the code is tested under Python 3.8. You should install numpy, matplotlib and scipy. Just download the code and see if you can run the game on the file multple_areas_comp1.py
 
+### Further details
+We have submitted a paper which details the implementation. Should this get publish, we plan to update the README file.
